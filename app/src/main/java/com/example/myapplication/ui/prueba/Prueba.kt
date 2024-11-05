@@ -33,7 +33,7 @@ class Prueba : AppCompatActivity() {
 
         spinner.onItemSelectedListener = object :AdapterView.OnItemSelectedListener{
             override fun onNothingSelected(parent: AdapterView<*>?) {
-                TODO("Not yet implemented")
+
             }
 
             override fun onItemSelected(
